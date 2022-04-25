@@ -10,6 +10,10 @@ body{
   padding-top: 3%;
 }
 
+.search-div{
+  padding: 3% 7% 7%;
+}
+
 .logo{
   width: 50px;
 }
