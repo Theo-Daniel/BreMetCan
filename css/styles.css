@@ -3,7 +3,7 @@ body{
 }
 
 .Home{
-  padding: 3% 7% 9%;
+  padding: 3% 7% 7%;
 }
 
 .about{
@@ -125,13 +125,10 @@ h1{
   background-image: linear-gradient(to bottom, #FFBBBB, #FFBBBB);
   text-decoration: none;
 }
-/* .button:active {
-  background-color: #FFBBBB;
-} */
 
-.button-footer{
-  background-color: #EDE6DB;
-  position: absolute;
-  right: 130px;
-  bottom: 100px;
+#footer{
+  background-color: #FFA1A1;
+  margin-top: 100px;
+  margin-bottom: 0;
+  padding: 3%;
 }
