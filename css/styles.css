@@ -1,0 +1,215 @@
+body{
+  background-color: #9FB4FF;
+}
+
+.Home{
+  padding: 3% 7% 7%;
+}
+
+.skeleton{
+  width: 400px;
+  margin-left: 100px;
+}
+
+.li{
+  padding-left: 10%;
+}
+
+.members{
+  margin-bottom: 25px;
+}
+
+.statistics{
+  margin-top: 100px;
+}
+
+.about{
+  padding-top: 3%;
+}
+
+.downloads{
+  padding-top: 3%;
+}
+
+.hr{
+  margin-bottom: 50px;
+}
+
+.search-div{
+  padding: 3% 7% 7%;
+}
+
+.logo{
+  width: 50px;
+}
+
+.nav-item{
+  margin-right: 12px;
+  font-size: 18px;
+}
+
+.nav-button{
+  margin-right: 8px;
+  margin-top: 5px;
+}
+
+.intro{
+  padding-right: 50px;
+  padding-top: 3.5%;
+  left: 200px;
+}
+
+
+.bremetcan{
+  padding-top: 2%;
+  padding-bottom: 3%;
+}
+
+h1{
+  padding-bottom: 20px;
+}
+
+p{
+  font-size: 20px;
+}
+
+li{
+  font-size: 20px;
+}
+
+.db-used{
+  left: 100px;
+}
+
+.card-body{
+  background-color: #9FB4FF;
+  text-align: center;
+  border-radius: 10%;
+  border: 0;
+  width: 20rem;
+  height: 22rem;
+}
+
+.statistics-card{
+  background-color: #B4FF9F;
+  text-align: center;
+  border-radius: 3%;
+  border: 0;
+  height: 22rem;
+}
+
+.stats{
+  padding-top: 2px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.downloads-card{
+  background-color: #FFBBBB;
+  text-align: center;
+  border-radius: 10%;
+  border: 0;
+  width: 20rem;
+  height: 18rem;
+}
+
+.btn-index{
+  margin-top: 7px;
+  margin-right: 10px;
+}
+
+.search-div{
+  padding-top: 5%;
+}
+
+.search-box{
+  width: 600px;
+  height: 50px;
+}
+
+.search-button{
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  font-family: Arial;
+  color: #111;
+  font-size: 20px;
+  background: #ffffff;
+  padding: 10px 20px 10px 20px;
+  border: solid #000000 2px;
+  text-decoration: none;
+}
+
+.search-button:hover {
+  background: #FFBBBB;
+  background-image: -webkit-linear-gradient(top, #FFBBBB, #FFBBBB);
+  background-image: -moz-linear-gradient(top, #FFBBBB, #FFBBBB);
+  background-image: -ms-linear-gradient(top, #FFBBBB, #FFBBBB);
+  background-image: -o-linear-gradient(top, #FFBBBB, #FFBBBB);
+  background-image: linear-gradient(to bottom, #FFBBBB, #FFBBBB);
+  text-decoration: none;
+}
+
+.overview{
+  margin-top: 30px;
+  margin-bottom: 25px;
+}
+
+.about-img{
+  width: 350px;
+  margin: 5% 27%;
+}
+
+.vit-logo{
+  width: 250px;
+}
+
+.download-button{
+  background: #A79BFF;
+  background-image: -webkit-linear-gradient(top, #A79BFF, #A79BFF);
+  background-image: -moz-linear-gradient(top, #A79BFF, #A79BFF);
+  background-image: -ms-linear-gradient(top, #A79BFF, #A79BFF);
+  background-image: -o-linear-gradient(top, #A79BFF, #A79BFF);
+  background-image: linear-gradient(to bottom, #A79BFF, #A79BFF);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 19px 10px 20px;
+  text-decoration: none;
+}
+
+.download-button:hover{
+  background: #8479E1;
+  background-image: -webkit-linear-gradient(top, #8479E1, #8479E1);
+  background-image: -moz-linear-gradient(top, #8479E1, #8479E1);
+  background-image: -ms-linear-gradient(top, #8479E1, #8479E1);
+  background-image: -o-linear-gradient(top, #8479E1, #8479E1);
+  background-image: linear-gradient(to bottom, #8479E1, #8479E1);
+  text-decoration: none;
+}
+.dimg{
+  width:5px;
+  height: 5px;
+}
+
+
+#footer{
+  background-color: #FFA1A1;
+  margin-top: 100px;
+  margin-bottom: 0;
+  padding: 3%;
+}
+
+.VIT-footer{
+  font-size: 16px;
+  color: white;
+  margin-top: 15px;
+  margin-left: 50px;
+}
+.contact{
+  text-align: left;
+  color: white;
+}
